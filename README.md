@@ -15,3 +15,38 @@ Daily Qiskit experiments · Mathematical foundations · Quantum mechanics rigor 
 |------------|---------------------|----------------------------|---------------------------|
 | 2024-07-07 | Dirac notation      | [bell_state.py](qiskit/week1/bell_state.py) | Verified ⟨01|ψ⟩ = 0 for entangled pairs |
 | 2024-07-08 | Unitary operators   | [quantum_teleport.py](qiskit/week1/quantum_teleport.py) | Classical comms bottleneck in teleportation |
+First 5 Critical Directories:
+/math_foundations
+
+linear_algebra.ipynb (Matrix proofs of quantum gates)
+
+probability_distributions.ipynb (Measurement outcome simulations)
+
+/core_physics
+
+wave_particle_duality.ipynb (Double-slit simulation with qubits)
+
+heisenberg_uncertainty.py (Tradeoff in σ_x vs σ_z measurements)
+
+/qiskit_impl
+
+/week1_superposition (Bloch sphere visualizations)
+
+/week2_error_correction (Surface code stabilizers)
+
+/noise_modeling
+
+t1_relaxation.py (Hardware decay simulation)
+
+quantum_volume_calculation.ipynb
+
+/literature
+
+Annotated PDFs of:
+
+Feynman Lectures Vol III
+
+Nielsen & Chuang Chapter 2
+
+IBM Quantum Hardware Whitepapers
+
